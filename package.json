@@ -10,7 +10,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.2",
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@dhnapi/news-api": "^1.0.10--up-v",
     "async": "^2.4.1",
     "awesome-phonenumber": "^2.62.1",
